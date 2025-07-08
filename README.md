@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=675&height=45&lines=Welcome+to+my+profile;Software+Developer+specialized+in+.NET+technology;Turning+ideas+into+functional+applications)](https://git.io/typing-svg)
 
 ## 🚀 About me
-I am a Jr software developer, passionate about programming and technology. Currently working as .NET developer. As a self-taught professional, I constantly seek to improve my skills and stay updated with the latest trends in software engineering.
+I am a software developer, passionate about programming and technology. Currently working as .NET developer. As a self-taught professional, I constantly seek to improve my skills and stay updated with the latest trends in software engineering.
 ## 🛠 Main Stack
 <p user-select="none" align="left">
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,cs,dotnet"/> </a>
